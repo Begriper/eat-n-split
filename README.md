@@ -6,8 +6,8 @@ A minimalist React app to split expenses with your friends. Built as part of the
 
 ## 🌍 Live Demo
 
-👉 [View Live on GitHub Pages](https://begriper.github.io/eat-n-split)  
-_Deployment in progress – coming soon!_
+👉 [View Live on Netlify](https://eat-n-split-frantisek.netlify.app)  
+_Deployment powered by Netlify 🚀_
 
 ---
 
